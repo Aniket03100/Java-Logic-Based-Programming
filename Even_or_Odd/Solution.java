@@ -26,5 +26,7 @@ public class Solution{
         else{
             System.out.println("invalid");
         }
+
+        obj.close();
     }
 }
